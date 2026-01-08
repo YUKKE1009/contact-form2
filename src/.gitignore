@@ -15,7 +15,7 @@ yarn-error.log
 /.vscode
 
 # MySQL データベース
-/docker/mysql/data/
+docker/mysql/data/
 
 # MySQL 設定ファイル（必要な場合は無視しない）
-/docker/mysql/my.cnf
+docker/mysql/my.cnf
