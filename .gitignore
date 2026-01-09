@@ -1,1 +1,5 @@
+# MySQL データベース
 docker/mysql/data/
+
+# MySQL 設定ファイル
+docker/mysql/my.cnf
